@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+#menu-1 .navbar-toggler {
+  color: #000000;
+}
+#menu-1 .navbar-brand {
+  font-family: 'PT Serif', serif;
+  font-size: 25px;
+}
+#header4-0 H1 {
+  color: #ffffff;
+  text-align: left;
+}
+#header4-0 B {
+  font-size: 46px;
+  font-family: 'Oswald', sans-serif;
+}
